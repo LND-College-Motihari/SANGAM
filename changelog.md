@@ -1,10 +1,8 @@
-Date : 04-04-2023 {
-    CODE UPDATE {
+## Date : 04-04-2023
+    CODE UPDATE
         1. Updated index.html : main/index.html
-        2. Updated style.css : main/assets/css/style.css
-    }
 
-    FILE UPDATE {
+    FILE UPDATE
         01. Updated hero-bg : main/assets/img/hero-bg.jpg
         02. Updated about-bg : main/assets/img/about-bg.jpg
 
@@ -36,5 +34,9 @@ Date : 04-04-2023 {
 
         26. Updated 1.jpg : main/assets/img/dumpingzone/1.jpg
         27. Updated 2.jpg : main/assets/img/dumpingzone/2.jpg
-    }
-}
+## Date : 05-04-2023
+    CODE UPDATE
+        1. 
+
+    FILE UPDATE
+        01. 
